@@ -1,1 +1,9 @@
 dubbo管理控制台，基于dubbo2.6.2
+
+使用方法：
+1. 当前目录下mvn clean install
+
+2. traget目录下cmd    java -jar dubbo-admin-0.0.1-SNAPSHOT.jar
+
+3. 访问localhost:7001  
+          用户名和密码为root
